@@ -1,0 +1,7 @@
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\bin\Debug\EnglishCheckersLogic.dll.config
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\bin\Debug\EnglishCheckersLogic.dll
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\bin\Debug\EnglishCheckersLogic.pdb
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.csprojAssemblyReference.cache
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.dll
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersLogic\obj\Debug\EnglishCheckersLogic.pdb

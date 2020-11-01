@@ -1,0 +1,15 @@
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\bin\Debug\EnglishCheckersUI.exe.config
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\bin\Debug\EnglishCheckersUI.exe
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\bin\Debug\EnglishCheckersUI.pdb
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\bin\Debug\EnglishCheckersLogic.dll
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\bin\Debug\EnglishCheckersLogic.pdb
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\bin\Debug\EnglishCheckersLogic.dll.config
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.csprojAssemblyReference.cache
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.FormBoard.resources
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.FormSettings.resources
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.Properties.Resources.resources
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.csproj.GenerateResource.cache
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.csproj.CoreCompileInputs.cache
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.csproj.CopyComplete
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.exe
+C:\Users\shird\Desktop\C20 Ex05 ShirDaabul 205783780 YuvalAmira 318286440\EnglishCheckersUI\obj\Debug\EnglishCheckersUI.pdb

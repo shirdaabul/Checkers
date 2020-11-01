@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "EnglishCheckersLogic\Logic.csproj", "{DEC83E21-6D70-4F24-ABBE-9762765A7218}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "EnglishCheckersUI\UI.csproj", "{68A9C6C9-5E7A-433A-AF6B-CBF2BE63D2A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{610D1773-E5C5-472D-BD0B-A8B8A677D0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC83E21-6D70-4F24-ABBE-9762765A7218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC83E21-6D70-4F24-ABBE-9762765A7218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC83E21-6D70-4F24-ABBE-9762765A7218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC83E21-6D70-4F24-ABBE-9762765A7218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A9C6C9-5E7A-433A-AF6B-CBF2BE63D2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A9C6C9-5E7A-433A-AF6B-CBF2BE63D2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A9C6C9-5E7A-433A-AF6B-CBF2BE63D2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A9C6C9-5E7A-433A-AF6B-CBF2BE63D2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F75EAEB3-C2B0-453F-B35A-AAB563664FB8}
+	EndGlobalSection
+EndGlobal
